@@ -1,6 +1,6 @@
 # Multimodal Eigenwords
 
-Python implementation for [Multimodal Eigenwrods](https://aclanthology.info/papers/W17-2405/w17-2405), which extends [Eigenwords](http://jmlr.org/papers/v16/dhillon15a.html) for multimodal word embedding.
+Python implementation for [Multimodal Eigenwords](https://aclanthology.info/papers/W17-2405/w17-2405), which extends [Eigenwords](http://jmlr.org/papers/v16/dhillon15a.html) for multimodal word embedding.
 
 <div style="white-space: nowrap;">
   <img src="https://github.com/kafku/mmeigenwords/blob/master/misc/model.png" height="180">
