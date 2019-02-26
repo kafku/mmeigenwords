@@ -40,7 +40,7 @@ cd ../data
 ./download_inputs.sh
 
 # download images
-# Note that this may take some time, and that some images may have been removed form flickr
+# Note that this may take some time, and that some images may have been removed fm flickr
 ./download_images.sh
 ```
 
