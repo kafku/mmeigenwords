@@ -28,7 +28,7 @@ Python implementation for [Multimodal Eigenwrods](https://aclanthology.info/pape
 ## Usage
 
 See the demo for [Multimodal Eigenwords](https://github.com/kafku/mmeigenwords/blob/master/mmeigenwords_demo.ipynb).
-Before you run scripts on the notebook. You need to conduct the following steps.
+Before you run scripts on the notebook, you need to conduct the following steps.
 
 ```bash
 # compile cpp source
