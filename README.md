@@ -1,5 +1,13 @@
 # Multimodal Eigenwords
 
+Python implementation for [Multimodal Eigenwrods](https://aclanthology.info/papers/W17-2405/w17-2405), which extends [Eigenwords](http://jmlr.org/papers/v16/dhillon15a.html) for multimodal word embedding.
+
+<div style="white-space: nowrap;">
+  <img src="https://github.com/kafku/mmeigenwords/blob/master/misc/model.png" height="180">
+  <img src="https://github.com/kafku/mmeigenwords/blob/master/misc/example.png" height="180">
+</div>
+
+
 
 ## Prerequisits
 
@@ -14,6 +22,7 @@
 - gensim >= 3.5.0
 - imageio >= 2.4.1
 - openbals (suppose it's installed using `conda`)
+- g++ >= 4.8.5
 
 
 ## Usage
