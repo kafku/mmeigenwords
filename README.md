@@ -12,10 +12,28 @@
 - tqdm >= 4.30.0
 - dask >= 1.1.1
 - gensim >= 3.5.0
+- imageio >= 2.4.1
+- openbals (suppose it's installed using `conda`)
 
 
 ## Usage
 
+See the demo for [Multimodal Eigenwords](https://github.com/kafku/mmeigenwords/blob/master/mmeigenwords_demo.ipynb).
+Before you run scripts on the notebook. You need to conduct the following steps.
+
+```bash
+# compile cpp source
+cd src/
+make
+
+cd ../data
+# download input files (corpus, image features, etc.)
+./download_inputs.sh
+
+# download images
+# Note that this may take some time, and that some images may have been removed form flickr
+./download_images.sh
+```
 
 ## Citation
 
