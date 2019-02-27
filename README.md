@@ -11,6 +11,8 @@ Python implementation for [Multimodal Eigenwords](https://aclanthology.info/pape
 
 ## Prerequisits
 
+Tested on CentOS7 with the following environments:
+
 - Anaconda3
   - numpy >= 1.15.4
   - scipy >= 1.1.0
@@ -21,6 +23,7 @@ Python implementation for [Multimodal Eigenwords](https://aclanthology.info/pape
 - dask >= 1.1.1
 - gensim >= 3.5.0
 - imageio >= 2.4.1
+- pybind11 >= 2.2.4
 - openbals (suppose it's installed using `conda`)
 - g++ >= 4.8.5
 
